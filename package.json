@@ -1,0 +1,17 @@
+{
+  "name": "testingci",
+  "version": "1.0.0",
+  "description": "all about testing",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "tyler8812",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.2.2"
+  }
+}
